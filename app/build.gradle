@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         applicationId "thiennhph18697.fpt.poly.md18202_pro1121_p301_ca1_vison"
